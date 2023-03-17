@@ -1,3 +1,8 @@
 # Benchmark-PSP
-Scripts to download data from Protein Data Bank in Europe (PDBe) and benchmark the results of some protein structure predictors (AlphaFold2, PEP2D, Jpred, PHYRE2) with experimental data.
-A script to assing secondary structure to AlphaFold2 predictions is also provided
+Data and scripts used to reproduce the computational experiments: 
+1. extracting information from Protein Data Bank in Europe (PDBe) database, 
+2. annotating secondary structure annotation of AlphaFold2-predicted structures with STRIDE, 
+3. benchmarking secondary structure states (H/E/C) for different protein structure predictors 
+   (AlphaFold2, PEP2D, Jpred, PHYRE2), 
+4. plotting peptide/protein structural landscape(s).
+
