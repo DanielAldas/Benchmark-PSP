@@ -1,0 +1,11 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  5x3l.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .                                             ~~~~
+SEQ  1    GLGSVFGRLARILGRVIPKV                                 20          ~~~~
+STR        HHHHHHHHHHHHHHHH                                                ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   LEU     2 A      ILE     17 A                            ~~~~

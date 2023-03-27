@@ -1,0 +1,14 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  5xol.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .                                             ~~~~
+SEQ  1    GSKKPVPIIYCNAATGKCQRM                                21          ~~~~
+STR               EEEETTTTEEEE                                             ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  Strand       ILE     9 A      ASN     12 A                            ~~~~
+LOC  Strand       LYS    17 A      ARG     20 A                            ~~~~
+LOC  TurnI        ASN    12 A      THR     15 A                            ~~~~
+LOC  TurnI        ALA    13 A      GLY     16 A                            ~~~~

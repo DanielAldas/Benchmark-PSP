@@ -1,0 +1,11 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  7ns1.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .                                   ~~~~
+SEQ  1    MITISTMLQFGLFLIALIGLVIKLIELSNKK                      31          ~~~~
+STR          HHHHHHHHHHHHHHHHHHHHHHHHHHH                                   ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   ILE     4 A      LYS     30 A                            ~~~~

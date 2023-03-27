@@ -1,0 +1,16 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  6vpn.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .                         ~~~~
+SEQ  1    KTCENLADTYKGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTKNC      47          ~~~~
+STR        EEEEETTTT      HHHHHHHHHHHH   EEEEETTTEEEEEEE                   ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   THR    17 A      GLU     28 A                            ~~~~
+LOC  Strand       THR     2 A      LEU      6 A                            ~~~~
+LOC  Strand       SER    32 A      ARG     36 A                            ~~~~
+LOC  Strand       ARG    40 A      ASN     46 A                            ~~~~
+LOC  TurnI        ALA     7 A      TYR     10 A                            ~~~~
+LOC  TurnI        ARG    36 A      PHE     39 A                            ~~~~

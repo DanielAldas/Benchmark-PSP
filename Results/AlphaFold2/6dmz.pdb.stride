@@ -1,0 +1,17 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  6dmz.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .                         ~~~~
+SEQ  1    RTCQSQSHRFRGPCLRRSNCANVCRTEGFPGGRCRGFRRRCFCTTHC      47          ~~~~
+STR        EEEEETTTT   TTTHHHHHHHHHHH   EEEEETTTTEEEEEEE                   ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   ARG    17 A      GLU     27 A                            ~~~~
+LOC  Strand       THR     2 A      GLN      6 A                            ~~~~
+LOC  Strand       GLY    31 A      ARG     35 A                            ~~~~
+LOC  Strand       ARG    40 A      HIS     46 A                            ~~~~
+LOC  TurnI        SER     7 A      PHE     10 A                            ~~~~
+LOC  TurnVIII     CYS    14 A      ARG     17 A                            ~~~~
+LOC  TurnI        GLY    36 A      ARG     39 A                            ~~~~

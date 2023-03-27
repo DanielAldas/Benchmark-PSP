@@ -1,0 +1,18 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  5wow.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .                                   ~~~~
+SEQ  1    GGVCPKILQRCRRDSDCPGACICRGNGYCGYPYDVPDYA              39          ~~~~
+STR               EE   GGG TTTTEEETTTEEETTTTTTT                            ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  310Helix     ASP    14 A      ASP     16 A                            ~~~~
+LOC  Strand       GLN     9 A      ARG     10 A                            ~~~~
+LOC  Strand       ILE    22 A      ARG     24 A                            ~~~~
+LOC  Strand       TYR    28 A      GLY     30 A                            ~~~~
+LOC  TurnII'      PRO    18 A      CYS     21 A                            ~~~~
+LOC  TurnI        ARG    24 A      GLY     27 A                            ~~~~
+LOC  TurnI        TYR    31 A      ASP     34 A                            ~~~~
+LOC  TurnIV       ASP    34 A      ASP     37 A                            ~~~~
