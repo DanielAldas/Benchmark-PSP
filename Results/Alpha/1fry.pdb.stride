@@ -1,0 +1,11 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  1fry.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .                                             ~~~~
+SEQ  1    RGLRRLGRKIAHGVKKYGPTVLRIIRIAG                        29          ~~~~
+STR        HHHHHHHHHHHHHHHHHHHHHHHHHHH                                     ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   GLY     2 A      ALA     28 A                            ~~~~

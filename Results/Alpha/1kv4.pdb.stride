@@ -1,0 +1,12 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  1kv4.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .                         ~~~~
+SEQ  1    AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA           42          ~~~~
+STR           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH TTT                          ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   ILE     5 A      LEU     35 A                            ~~~~
+LOC  GammaInv     PRO    37 A      LYS     39 A                            ~~~~
