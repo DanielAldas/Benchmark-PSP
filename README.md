@@ -6,3 +6,5 @@ Data and scripts used to reproduce the computational experiments:
 (AlphaFold2, PEP2D, Jpred, PHYRE2), 
 - plotting peptide/protein structural landscape(s).
 
+Modified Jupyter Notebook from PDBe API. Original source:
+ https://github.com/PDBeurope/pdbe-api-training
