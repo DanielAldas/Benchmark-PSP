@@ -1,0 +1,14 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  2mmt.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .                                             ~~~~
+SEQ  1    GGAGHVPEYFVRGDFPISFYG                                21          ~~~~
+STR        TTT   GGGTTT TTT                                                ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  310Helix     GLU     8 A      PHE     10 A                            ~~~~
+LOC  TurnI        PHE    10 A      GLY     13 A                            ~~~~
+LOC  GammaInv     GLY     2 A      GLY      4 A                            ~~~~
+LOC  GammaInv     PHE    15 A      ILE     17 A                            ~~~~

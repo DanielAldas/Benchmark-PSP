@@ -1,0 +1,26 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  2lb7.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .                         ~~~~
+SEQ  1    AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC         44          ~~~~
+STR         BTBTTTTTB TTTTTEEETTTEEE TTTTTTTTTTTBTTTT                      ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  Strand       CYS    18 A      GLY     20 A                            ~~~~
+LOC  Strand       PHE    24 A      GLY     26 A                            ~~~~
+LOC  TurnII'      CYS     4 A      GLN      7 A                            ~~~~
+LOC  TurnI        GLY     5 A      ALA      8 A                            ~~~~
+LOC  TurnIV       ASP     6 A      ARG      9 A                            ~~~~
+LOC  TurnI'       ALA     8 A      ALA     11 A                            ~~~~
+LOC  TurnII       CYS    13 A      CYS     16 A                            ~~~~
+LOC  TurnI'       PRO    14 A      LEU     17 A                            ~~~~
+LOC  TurnI        GLY    20 A      GLY     23 A                            ~~~~
+LOC  TurnI        GLY    28 A      TYR     31 A                            ~~~~
+LOC  TurnI        ASP    29 A      CYS     32 A                            ~~~~
+LOC  TurnIV       ALA    30 A      GLY     33 A                            ~~~~
+LOC  TurnII       GLY    33 A      SER     36 A                            ~~~~
+LOC  TurnIV       ALA    34 A      CYS     37 A                            ~~~~
+LOC  TurnIV       GLN    38 A      CYS     41 A                            ~~~~
+LOC  TurnI        GLN    40 A      GLY     43 A                            ~~~~

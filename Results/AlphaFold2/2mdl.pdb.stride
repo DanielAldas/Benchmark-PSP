@@ -1,0 +1,14 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  2mdl.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .                                             ~~~~
+SEQ  1    TCHIRRKPKFRKFKLYHEGKFWCP                             24          ~~~~
+STR         EEEEEEEEETTEEEEEEEEE                                           ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  Strand       HIS     3 A      ARG     11 A                            ~~~~
+LOC  Strand       LYS    14 A      TRP     22 A                            ~~~~
+LOC  TurnIV       PHE    10 A      PHE     13 A                            ~~~~
+LOC  TurnI'       ARG    11 A      LYS     14 A                            ~~~~

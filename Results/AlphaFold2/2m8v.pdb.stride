@@ -1,0 +1,17 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  2m8v.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .                                   ~~~~
+SEQ  1    ADRGWIKTLTKDCPNVISSICAGTIITACKNCA                    33          ~~~~
+STR            EEEETTTTTTTEEEETTT     TTTT                                 ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  Strand       ILE     6 A      LEU      9 A                            ~~~~
+LOC  Strand       ILE    17 A      ILE     20 A                            ~~~~
+LOC  TurnI        THR    10 A      CYS     13 A                            ~~~~
+LOC  TurnVIII     LYS    11 A      PRO     14 A                            ~~~~
+LOC  TurnIV       CYS    13 A      VAL     16 A                            ~~~~
+LOC  TurnIV       CYS    29 A      CYS     32 A                            ~~~~
+LOC  GammaInv     CYS    21 A      GLY     23 A                            ~~~~

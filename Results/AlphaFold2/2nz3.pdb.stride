@@ -1,0 +1,21 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  2nz3.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .                         ~~~~
+SEQ  1    ATCDLASIFNVNHALCAAHCIARRYRGGYCNSKAVCVCRN             40          ~~~~
+STR       TTTTTTTTTTHHHHHHHHHHHHH   EEEEETTTEEEEE                          ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  AlphaHelix   VAL    11 A      ARG     23 A                            ~~~~
+LOC  Strand       GLY    27 A      ASN     31 A                            ~~~~
+LOC  Strand       VAL    35 A      ARG     39 A                            ~~~~
+LOC  TurnI        ALA     1 A      ASP      4 A                            ~~~~
+LOC  TurnI        THR     2 A      LEU      5 A                            ~~~~
+LOC  TurnI        CYS     3 A      ALA      6 A                            ~~~~
+LOC  TurnI        ASP     4 A      SER      7 A                            ~~~~
+LOC  TurnIV       LEU     5 A      ILE      8 A                            ~~~~
+LOC  TurnI        ALA     6 A      PHE      9 A                            ~~~~
+LOC  TurnI        SER     7 A      ASN     10 A                            ~~~~
+LOC  TurnI        ASN    31 A      ALA     34 A                            ~~~~
