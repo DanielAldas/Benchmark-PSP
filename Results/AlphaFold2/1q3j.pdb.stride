@@ -1,0 +1,19 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  1q3j.pdb A                                                            ~~~~
+REM                                                                        ~~~~
+REM                .         .         .                                   ~~~~
+SEQ  1    CIKNGNGCQPNGSQGNCCSGYCHKQPGWVAGYCRRK                 36          ~~~~
+STR        BTTTEEEBTTTTTB BTTT EE TTTTTTEEE                                ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  Strand       ASN     6 A      CYS      8 A                            ~~~~
+LOC  Strand       CYS    22 A      HIS     23 A                            ~~~~
+LOC  Strand       GLY    31 A      CYS     33 A                            ~~~~
+LOC  TurnII       LYS     3 A      ASN      6 A                            ~~~~
+LOC  TurnI        GLN     9 A      GLY     12 A                            ~~~~
+LOC  TurnI        GLY    12 A      GLY     15 A                            ~~~~
+LOC  TurnI        CYS    17 A      GLY     20 A                            ~~~~
+LOC  TurnII       GLN    25 A      TRP     28 A                            ~~~~
+LOC  TurnVIII     TRP    28 A      GLY     31 A                            ~~~~
