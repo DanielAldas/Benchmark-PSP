@@ -8,3 +8,6 @@ Data and scripts used to reproduce the computational experiments:
 
 Modified Jupyter Notebook from PDBe API. Original source:
  https://github.com/PDBeurope/pdbe-api-training
+
+ Digital Discovery, 2023,2, 981-993
+ DOI	https://doi.org/10.1039/D3DD00045A
